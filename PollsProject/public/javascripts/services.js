@@ -1,5 +1,5 @@
 /**
- * Created by SrikAnth on 17-11-2014.
+ * Created by Sravani on 17-11-2014.
  */
 
 // Angular service module for connecting to JSON APIs
